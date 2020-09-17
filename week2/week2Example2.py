@@ -28,7 +28,3 @@ if guess != randNum:
     randomNumberFunc()
 else:
     print('You win!') 
-    
-    
-    
-    fdjkalfjdklsajflkdsjfadsfa
