@@ -1,2 +1,2 @@
 # ETR107
-This is for class
+Class materials are awesome - for Eric's class
